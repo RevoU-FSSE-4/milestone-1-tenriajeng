@@ -157,6 +157,11 @@ ol {
     margin-bottom: 4px;
 }
 
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .mx-1 {
     margin-left: 1px;
     margin-right: 1px;
@@ -281,6 +286,10 @@ ol {
     border-color: var(--gray-200);
 }
 
+.border-gray-700 {
+    border-color: var(--gray-700);
+}
+
 .border-primary {
     border-color: var(--primary-color);
 }
@@ -331,12 +340,12 @@ ol {
     background-color: var(--main-color);
 }
 
-#contact {
+#cultivation-steps {
     background-color: var(--main-color);
 }
 
-#cultivation-steps {
-    background-color: var(--main-color);
+#contact {
+    background-color: var(--slate-900);
 }
 
 .form-control {
@@ -513,9 +522,7 @@ ol {
     .show-menu {
         display: flex;
     }
-}
 
-@media (max-width: 767px) {
     .grid-container {
         grid-template-columns: 1fr;
     }
