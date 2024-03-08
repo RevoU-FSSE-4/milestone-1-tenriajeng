@@ -316,6 +316,10 @@ ol {
     padding: 4px;
 }
 
+.p-3 {
+    padding: 8px;
+}
+
 .p-4 {
     padding: 10px;
 }
@@ -431,7 +435,7 @@ ol {
 }
 
 .toggle {
-    transition: background-color 0.1s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
 }
 
 .toggle:hover {
