@@ -443,9 +443,13 @@ ol {
     background-color: var(--main-color);
 }
 
-/* #contact {
-    background-color: #0c1729;
-} */
+#contact {
+    position: relative;
+    background-image: url("https://themesbrand.com/toner/html/assets/images/ecommerce/bg-effect.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 #footer {
     background-color: #0c1729;
