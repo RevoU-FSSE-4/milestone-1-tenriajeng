@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the company profile for Toner, an innovative player in the e-commerce industry. Toner is committed to providing top-notch products and services, with a focus on sustainability and environmental responsibility. Explore the world of Toner at [Toner](https://yahhh.online/), reference from [Toner Official Website](https://themesbrand.com/toner/html/frontend/index.html)
+Welcome to the company profile for Toner, an innovative player in the e-commerce industry. Toner is committed to providing top-notch products and services, with a focus on sustainability and environmental responsibility. Explore the world of Toner at [Toner](https://yahhh.online/), reference from [Toner Official Website](https://themesbrand.com/toner/html/frontend/index.html), I chose this template because it has colors, images that I like to see and has dark mode (I don't apply dark mode for one reason or another).I use the hero icon [heroicons](https://heroicons.com) to provide  icon for the navbar of this project.
 
 [![Banana Farm](https://themesbrand.com/toner/html/assets/images/logo-light.png)](https://yahhh.online/)
 
