@@ -489,7 +489,7 @@ footer li {
     padding: 10px;
     margin-bottom: 10px;
     box-sizing: border-box;
-    border: 1px solid #ccc;
+    border: 1px solid var(--gray-200);
 }
 
 .form-control-checkbox {
