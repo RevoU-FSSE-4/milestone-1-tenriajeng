@@ -435,11 +435,12 @@ ol {
 }
 
 .toggle {
+    background-color: var(--gray-100);
     transition: background-color 0.2s ease-in-out;
 }
 
 .toggle:hover {
-    background-color: var(--gray-100);
+    background-color: var(--gray-200);
 }
 
 .overlay {

@@ -218,6 +218,10 @@
     height: 80vh;
 }
 
+.max-h-80-vh {
+    max-height: 80vh;
+}
+
 .h-dvh {
     height: 100dvh;
 }
