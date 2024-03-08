@@ -430,6 +430,14 @@ ol {
     background-color: #fcdae2;
 }
 
+.toggle {
+    transition: background-color 0.1s ease-in-out;
+}
+
+.toggle:hover {
+    background-color: var(--gray-100);
+}
+
 .overlay {
     position: absolute;
     top: 0;
@@ -442,6 +450,10 @@ ol {
 #cultivation-steps {
     background-color: var(--main-color);
 }
+
+/* #about {
+    background-color: #f9fafc;
+} */
 
 #contact {
     position: relative;
