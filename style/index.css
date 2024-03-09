@@ -554,11 +554,11 @@ footer li {
 
 @media (min-width: 1024px) {
     .lg\:row-span-2 {
-        grid-row: span 2 / span 3;
+        grid-row: span 2;
     }
 
     .lg\:col-span-2 {
-        grid-column: span 2 / span 2;
+        grid-column: span 2;
     }
 
     .lg\:aspect-16-9 {
@@ -1321,11 +1321,11 @@ footer li {
     }
 
     .md\:col-span-2 {
-        grid-column: span 2 / span 2;
+        grid-column: span 2;
     }
 
     .md\:col-span-3 {
-        grid-column: span 3 / span 3;
+        grid-column: span 3;
     }
 
 
